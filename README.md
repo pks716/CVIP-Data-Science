@@ -4,3 +4,5 @@
 2) Golden Task: Breast Cancer Prediction ---> Dataset: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
 
+#PHASE 2
+1) Normal Task: Email Spam Detection ---> Dataset: https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification
